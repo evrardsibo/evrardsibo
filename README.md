@@ -1,4 +1,4 @@
-![Preview](assets/images/homepage_preview.png)
+![Preview](developpeur-web.jpg)
 ### Hi and welcome to my GitHub 👋
 <hr>
 
