@@ -24,9 +24,9 @@ I'm Evrard Sibomana now i am currently in training at BeCode Charleroi as a Juni
     * Wordpress
     
 - 📫 How to reach me:
- * LinkedIn: https://www.linkedin.com/in/evrard-sibomana-juniordeveloper/
- * Gmail: evrard.sibomana@gmail.com
- * Twitter: https://twitter.com/evrardsibo8723
+    * LinkedIn: https://www.linkedin.com/in/evrard-sibomana-juniordeveloper/
+    * Gmail: evrard.sibomana@gmail.com
+    * Twitter: https://twitter.com/evrardsibo8723
 
 
 
