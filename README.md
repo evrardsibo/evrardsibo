@@ -6,8 +6,10 @@ I'm Evrard Sibomana now i am currently in training at BeCode Charleroi as a Juni
 
 
 - 🔭 Expertise
+  * Python
   * PHP
   * Laravel
+  * Odoo
   * Nodejs
   * javascrpit
   * Html/Css
@@ -19,6 +21,8 @@ I'm Evrard Sibomana now i am currently in training at BeCode Charleroi as a Juni
   
 - 👯 I’m looking to collaborate on
     * PHP
+    * Python
+    * Odoo
     * Laravel
     * Mysql
     * Wordpress
